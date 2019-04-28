@@ -48,7 +48,7 @@ Mozilla Firefox
 Internet Explorer/Edge
 Safari
 
-<h1>Extra Credit</h1> 
+<h2>Extra Credit</h2> 
 
 To get an "exceeds" rating, you can expand on the project in the following ways:
 
